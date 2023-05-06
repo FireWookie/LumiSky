@@ -1413,6 +1413,9 @@ input[name="slider"] {
 
 
 @media (min-width: 350px) and (max-width: 767px) {
+     .address-text {
+          font-size: 17px;
+     }
      .scheme {
           max-width: 100%;
      }
