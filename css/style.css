@@ -1406,7 +1406,10 @@ input[name="slider"] {
 
 @media (min-width: 350px) and (max-width: 767px) { 
      #buttonUp {
+          display: flex;
           visibility: hidden;
+          overflow: hidden;
+          justify-content: center;
      }
 
 }
